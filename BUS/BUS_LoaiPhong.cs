@@ -28,30 +28,35 @@ namespace BUS
         // Day danh sach cac loai phong vao DataTable dtLoaiPhong 
         public DataTable getLoaiPhong()
         {
-            return DAL_LoaiPhong.Instance.getLoaiPhong();
+            DAL_LoaiPhong a = new DAL_LoaiPhong();
+            return a.getLoaiPhong();
         }
 
         // Them loai phong moi a vao CSDL LoaiPhong
-        public bool themLoaiPhong(DTO_LoaiPhong a)
+        public void themLoaiPhong(DTO_LoaiPhong a)
         {
-            return DAL_LoaiPhong.Instance.themLoaiPhong(a);
+            DAL_LoaiPhong dt = new DAL_LoaiPhong();
+            dt.themLoaiPhong(a);
         }
 
         // Sua loai phong a trong CSDL LoaiPhong
-        public bool suaLoaiPhong(DTO_LoaiPhong a)
+        public void suaLoaiPhong(DTO_LoaiPhong a)
         {
-            return DAL_LoaiPhong.Instance.suaLoaiPhong(a);
+            DAL_LoaiPhong dt = new DAL_LoaiPhong();
+            dt.suaLoaiPhong(a);
         }
 
         // xoa loai phong co ma loai phong a trong CSDL LoaiPhong
-        public bool xoaLoaiPhong(int a)   // a : MaLoaiPhong
+        public void xoaLoaiPhong(int a)   // a : MaLoaiPhong
         {
-            return DAL_LoaiPhong.Instance.xoaLoaiPhong(a);
+            DAL_LoaiPhong dt = new DAL_LoaiPhong();
+            dt.xoaLoaiPhong(a);
         }
         // tra ve ten loai phong tuong ung voi ma loai phong t trong CSDL LoaiPhong
         public string FindByMaLoaiPhong(int t)   // t : MaLoaiPhong
         {
-            return DAL_LoaiPhong.Instance.FindByMaLoaiPhong(t);
+            DAL_LoaiPhong dt = new DAL_LoaiPhong();
+            return dt.FindByMaLoaiPhong(t);
         }
     }
 }
