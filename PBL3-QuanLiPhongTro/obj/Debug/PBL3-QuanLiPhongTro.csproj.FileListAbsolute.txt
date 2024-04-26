@@ -1,0 +1,16 @@
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\PBL3-QuanLiPhongTro.exe.config
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\PBL3-QuanLiPhongTro.exe
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\PBL3-QuanLiPhongTro.pdb
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\BUS.dll
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\DTO.dll
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\DAL.dll
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\BUS.pdb
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\DTO.pdb
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\bin\Debug\DAL.pdb
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.csproj.AssemblyReference.cache
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3_QuanLiPhongTro.Properties.Resources.resources
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.csproj.GenerateResource.cache
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.csproj.CoreCompileInputs.cache
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.csproj.CopyComplete
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.exe
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.pdb
