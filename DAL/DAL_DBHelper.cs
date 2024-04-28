@@ -21,7 +21,7 @@ namespace DAL
             {
                 if (_Instance == null)
                 {
-                    string s = "";
+                    string s = "Data Source=LAPTOP-8EBE9VMB\\SQLEXPRESS;Initial Catalog=PBL3_QuanLyNhaTro;Integrated Security=True";
                     _Instance = new DAL_DBHelper(s);
                 }
                 return _Instance;

@@ -14,3 +14,5 @@ E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTr
 E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.csproj.CopyComplete
 E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.exe
 E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3-QuanLiPhongTro.pdb
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3_QuanLiPhongTro.DangNhap.resources
+E:\Filelocation\My Code\C#\PBL3\PBL3-QuanLiPhongTro\obj\Debug\PBL3_QuanLiPhongTro.Admin.resources

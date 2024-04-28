@@ -41,9 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL_KhachTro.cs" />
-    <Compile Include="DAL_LoaiPhong.cs" />
+    <Compile Include="DAL_HoaDon.cs" />
+    <Compile Include="DAL_PhieuThuTien.cs" />
     <Compile Include="DAL_DBHelper.cs" />
+    <Compile Include="DAL_TaiKhoan.cs" />
+    <Compile Include="DAL_TTLT.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTO\DTO.csproj">
