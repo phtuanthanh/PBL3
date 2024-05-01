@@ -11,16 +11,16 @@ namespace DAL
     public class DataProvider
     {
         private string cnnstring;
-        private static DataProvider _instance;
-        public static DataProvider instance
+        private static DataProvider _Instance;
+        public static DataProvider Instance
         {
             get
             {
-                if (_instance == null)
-                    _instance = new DataProvider();
-                return _instance;
+                if (_Instance == null)
+                    _Instance = new DataProvider();
+                return _Instance;
             }
-            private set { _instance = value; }
+            private set { _Instance = value; }
         }
 
         private DataProvider()
@@ -46,7 +46,7 @@ namespace DAL
                 return false;
             }
         }
-        public DataTable GetRecord(string query)
+        public DataTable GetRecords(string query)
         {
             try
             {
